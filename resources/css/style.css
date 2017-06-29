@@ -14,11 +14,7 @@ ul {
   text-align: left;
 }
 
-.blue {
-  font-size: 50px;
-  background-color: pink;
-}
-
+.blue,
 .chinks,
 .j1,
 .jj2,
@@ -30,5 +26,5 @@ ul {
 .tiny,
 .tyson {
   font-size: 50px;
-  background-color: pink;
+  background-color: blue;
 }
